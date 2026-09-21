@@ -148,7 +148,7 @@ If you are interested in collaboration or share similar research interests, plea
 ## 🏆 Honors & Awards
 
 - 🥇 **第十届全国密码技术竞赛一等奖**
-- 🏅 **大学生创新创业训练计划** "大学生系统安全与隐私保护实践活动" **优秀奖**
+- 🏅 **大学生创新创业训练计划优秀奖**
 - 🏅 **南开大学第八届"校长杯"创新创业大赛** "人工智能+"应用专项赛 **优秀奖**
 - 📄 **CCNIS 2026** 人工智能、大模型与智能体安全论坛 **最佳论文**（PenLORE）
 - 🎖️ 360 数字安全集团网络安全实习实训结业
