@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm 杜泽琦 (Du Zeqi)
 
-🎓 **信息安全本科生** @ 南开大学 (985 / 211 / 双一流) · 密码与网络空间安全学院
+🎓 **信息安全本科生** @ 南开大学 (985 / 211 / 双一流) · 密码与网络空间安全学院<br>
 🔐 **研究方向**：大模型与智能体安全 · 软件安全 · 密码应用安全
 
 [![Email](https://img.shields.io/badge/Email-2313508@mail.nankai.edu.cn-blue?style=flat-square&logo=gmail)](mailto:2313508@mail.nankai.edu.cn)
@@ -16,10 +16,10 @@
 ## 🧑‍💻 About Me
 
 - 🔭 目前专注于 **大模型 / 智能体安全** 与 **密码 API 误用检测** 相关研究
-- 🏆 第十届 **全国密码技术竞赛一等奖**；CCF 大学生系统安全与隐私保护实践活动优秀奖
+- 🏆 第十届 **全国密码技术竞赛一等奖**；南开大学"校长杯"创新创业大赛优秀奖
 - 📄 CCNIS 2026 人工智能、大模型与智能体安全论坛 **最佳论文**
 - 🛡️ 360 数字安全集团网络安全实习实训经历
-- 💼 院社会实践和志愿服务中心主任（高层正职）
+- 💼 2025-2026 院社会实践和志愿服务中心主任
 
 ---
 
@@ -48,13 +48,25 @@
 ## 🛠️ Skills
 
 ### 💻 编程开发
-`Python` · `C / C++` · `Git` · 后端接口开发 · 模型调用联调 · 数据处理
+`Python` · `C / C++` · `Bash / Shell` · 后端接口开发 · 数据处理
 
-### 🛡️ 系统与安全
-`Linux` · `Nmap` · `Wireshark` · `Burp Suite` · 端口扫描 · 流量分析 · Web 安全测试
+### 🤖 AI 与大模型
+`LLM API` · `RAG` · `RAGFlow` · `Prompt Engineering` · 多模型联调与评测
 
-### 🗄️ 数据库与工具
-`MySQL / SQL` · `VS Code` · `Eclipse` · `Visio` · `Office (Word / Excel / PowerPoint)`
+### 🛡️ 网络安全
+`Nmap` · `Wireshark` · `Burp Suite` · `Metasploit` · `Sqlmap` · Web 渗透测试 · 漏洞复现 · 攻防靶场
+
+### 🔍 逆向与恶意代码分析
+`IDA Pro` · `Ghidra` · `x64dbg` · `OllyDbg` · 汇编语言 · 静态 / 动态分析
+
+### 🔐 密码学
+`OpenSSL` · `CryptoAPI` · `CASFG`（语言无关中间表示） · 国密算法（SM2 / SM4） · 哈希与签名方案
+
+### 🖥️ 系统与数据库
+`Linux` · `Docker` · `MySQL / SQL` · 端口扫描 · 流量分析
+
+### 🛠️ 开发与办公
+`VS Code` · `Eclipse` · `Git` · `Markdown` · `Visio` · `Office (Word / Excel / PowerPoint)`
 
 ### 🗣️ 语言能力
 - CET-6：**514 分**
@@ -122,7 +134,6 @@
 ## 🏆 Honors & Awards
 
 - 🥇 **第十届全国密码技术竞赛一等奖**
-- 🏅 **中国计算机学会（CCF）** 大学生系统安全与隐私保护实践活动 **优秀奖**
 - 🏅 **南开大学第八届"校长杯"创新创业大赛** "人工智能+"应用专项赛 **优秀奖**
 - 📄 **CCNIS 2026** 人工智能、大模型与智能体安全论坛 **最佳论文**（PenLORE）
 - 🎖️ 360 数字安全集团网络安全实习实训结业
