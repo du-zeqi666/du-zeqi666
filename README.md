@@ -1,13 +1,15 @@
 <div align="center">
 
-# 👋 Hi, I'm 杜泽琦 (Du Zeqi)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=660874&center=true&vCenter=40&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Zeqi+Du;Information+Security+%40+Nankai+University;Focusing+on+LLM+%26+Cybersecurity;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+
+# 👋 你好，我是 **杜泽琦 (Du Zeqi)**
 
 🎓 **信息安全本科生** @ 南开大学 (985 / 211 / 双一流) · 密码与网络空间安全学院<br>
 🔐 **研究方向**：大模型与智能体安全 · 软件安全 · 密码应用安全
 
-[![Email](https://img.shields.io/badge/Email-2313508@mail.nankai.edu.cn-blue?style=flat-square&logo=gmail)](mailto:2313508@mail.nankai.edu.cn)
-[![Phone](https://img.shields.io/badge/Phone-17742817815-green?style=flat-square&logo=phone)](tel:+8617742817815)
+[![Email](https://img.shields.io/badge/Email-17742817815@163.com-blue?style=flat-square&logo=gmail)](mailto:17742817815@163.com)
 [![School](https://img.shields.io/badge/NKU-南开大学-8B0000?style=flat-square&logo=university)](https://www.nankai.edu.cn)
+[![Profile Views](https://komarev.com/ghpvc/?username=du-zeqi666&label=Profile%20Views&color=ad2352&style=flat)](https://github.com/du-zeqi666)
 
 </div>
 
@@ -15,11 +17,23 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 目前专注于 **大模型 / 智能体安全** 与 **密码 API 误用检测** 相关研究
-- 🏆 第十届 **全国密码技术竞赛一等奖**；南开大学"校长杯"创新创业大赛优秀奖
-- 📄 CCNIS 2026 人工智能、大模型与智能体安全论坛 **最佳论文**
-- 🛡️ 360 数字安全集团网络安全实习实训经历
-- 💼 2025-2026 院社会实践和志愿服务中心主任
+Hello! My name is **Zeqi Du (杜泽琦)**, an undergraduate student majoring in **Information Security** at the **College of Cryptology and Cyber Science, Nankai University (NKU)**.
+
+My research focuses on the **intersection of Large Language Models and Cybersecurity**:
+
+- 🤖 **LLM Security** — RAG attacks & defenses, prompt injection, agent vulnerabilities
+- 🔐 **LLM for Security** — penetration testing agents, vulnerability mining, automated security analysis
+- 🛡️ **Software Security & Cryptography** — API misuse detection, applied cryptography
+
+If you are interested in collaboration or share similar research interests, please feel free to reach out!
+
+- 🔭 **研究兴趣**：大模型与智能体安全 · 密码 API 误用检测 · 自动化安全分析
+- 🌱 **学习路径**：从密码学基础、软件安全出发，逐步深入 AI 与网络安全的交叉领域
+- 🛠️ **工程实践**：先后参与 RAG 安全知识库构建、跨语言检测系统开发、VSCode 插件接口设计
+- 🛡️ **实习实训**：360 数字安全集团实习，完成 5 项 CVE 漏洞复现及风险分析
+- 🌐 **开源参与**：腾讯犀牛鸟开源人才培养计划，学习开源协作流程
+- 💼 **学生工作**：2025-2026 院社会实践和志愿服务中心主任，统筹 3 个职能部门
+- 🎯 **个人特质**：做事认真负责，注重问题分析与实践验证；具备团队协作、组织协调与持续学习能力
 
 ---
 
@@ -28,10 +42,11 @@
 ### 🔐 跨语言密码学 API 误用检测 (2025.08 – 2025.12) · 项目核心成员
 面向 Java / Go / Python / C++ 等语言的跨语言密码学 API 误用检测系统。
 
-- 系统后端开发、**CASFG 语言无关中间表示**、多模型检测及 VSCode 插件接口建设
+- 负责系统后端开发、**CASFG 语言无关中间表示**、多模型检测及 VSCode 插件接口建设
 - 实现密码 API 调用分析、低置信度样本辅助复核与修复建议生成
+- 系统在 **CryptoAPI-Bench** 基准测试中 F1 值达 **0.939**
 - 🏅 项目荣获 **第十届全国密码技术竞赛一等奖**
-- 📝 计算机软件著作权 `CASFG-CryptoDetect V1.0` 
+- 📝 计算机软件著作权 `CASFG-CryptoDetect V1.0` 已获得（登记号：2026SR\*\*\*\*07）
 
 ### 🤖 基于大语言模型的可信认知渗透测试智能体 (2025.03 – 2026.08) · 项目核心成员
 南开大学 2025 年天津市大学生创新创业训练项目。
@@ -41,7 +56,7 @@
 - 参与构建覆盖 **28 万余条 CVE、4.6 万条 PoC** 的安全知识库
 - 🏅 南开大学第八届"校长杯"创新创业大赛"人工智能+"应用专项赛 **优秀奖**
 - 📄 论文《**PenLORE**：面向渗透测试智能体的异步反思与类型化经验积累框架》获 **CCNIS 2026 最佳论文**
-- 📝 相关系统已取得计算机软件著作权
+- 📝 计算机软件著作权 `LORE V1.0` 已获得（登记号：2026SR\*\*\*\*17）
 
 ---
 
@@ -151,8 +166,7 @@
 
 ## 📫 Contact Me
 
-- 📧 Email：**2313508@mail.nankai.edu.cn**
-- 📱 Phone：**17742817815**
+- 📧 Email：**17742817815@163.com**
 - 🏫 学校：南开大学 · 密码与网络空间安全学院
 
 ---
