@@ -32,7 +32,7 @@ If you are interested in collaboration or share similar research interests, plea
 - 🛠️ **工程实践**：先后参与 RAG 安全知识库构建、跨语言检测系统开发、VSCode 插件接口设计
 - 🛡️ **实习实训**：360 数字安全集团实习，完成 5 项 CVE 漏洞复现及风险分析
 - 🌐 **开源参与**：腾讯犀牛鸟开源人才培养计划，学习开源协作流程
-- 💼 **学生工作**：2025-2026 院社会实践和志愿服务中心主任，统筹 3 个职能部门
+- 💼 **学生工作**：2025-2026 院社会实践和志愿服务中心
 - 🎯 **个人特质**：做事认真负责，注重问题分析与实践验证；具备团队协作、组织协调与持续学习能力
 
 ---
@@ -42,9 +42,8 @@ If you are interested in collaboration or share similar research interests, plea
 ### 🔐 跨语言密码学 API 误用检测 (2025.08 – 2025.12) · 项目核心成员
 面向 Java / Go / Python / C++ 等语言的跨语言密码学 API 误用检测系统。
 
-- 负责系统后端开发、**CASFG 语言无关中间表示**、多模型检测及 VSCode 插件接口建设
+- 参与系统后端开发、**CASFG 语言无关中间表示**、多模型检测及 VSCode 插件接口建设
 - 实现密码 API 调用分析、低置信度样本辅助复核与修复建议生成
-- 系统在 **CryptoAPI-Bench** 基准测试中 F1 值达 **0.939**
 - 🏅 项目荣获 **第十届全国密码技术竞赛一等奖**
 - 📝 计算机软件著作权 `CASFG-CryptoDetect V1.0` 已获得（登记号：2026SR\*\*\*\*07）
 
@@ -149,6 +148,7 @@ If you are interested in collaboration or share similar research interests, plea
 ## 🏆 Honors & Awards
 
 - 🥇 **第十届全国密码技术竞赛一等奖**
+- 🏅 **大学生创新创业训练计划** "大学生系统安全与隐私保护实践活动" **优秀奖**
 - 🏅 **南开大学第八届"校长杯"创新创业大赛** "人工智能+"应用专项赛 **优秀奖**
 - 📄 **CCNIS 2026** 人工智能、大模型与智能体安全论坛 **最佳论文**（PenLORE）
 - 🎖️ 360 数字安全集团网络安全实习实训结业
